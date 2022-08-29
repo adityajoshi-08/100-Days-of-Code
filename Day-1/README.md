@@ -1,0 +1,3 @@
+- Did DSA questions on Leetcode aroundn Arrays.
+- Worked on a booklist javascript app while learning Vanilla JavaScript. Might start another project tomorrow.
+- Started with Stacks and Queues.
